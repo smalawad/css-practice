@@ -1,0 +1,252 @@
+
+body {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+}
+.container-top {
+    background-color:aqua;
+    height: 200px;
+    width: 200px;
+    margin: 10px 0 0 10px ;
+}
+
+.container-middle {
+    background-color: salmon;
+    height: 200px;
+    width: 200px;
+    margin-left: 210px;
+}
+
+.container-bottom {
+    background-color:yellowgreen;
+    height: 200px;
+    width: 200px;
+    margin: -400px 0 0 410px;
+}
+
+/* .container-top starts */
+.container-top .dot {
+    background:orange;
+    display: inline-block;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    height: 100px;
+    width: 100px;
+    margin: 50px 0 0 50px;
+}
+
+.container-top .dot-1 {
+    background:tomato;
+    display: inline-block;
+    border-radius: 100%;
+    height: 25px;
+    width: 25px;
+    margin: 30px 0 0  20px;
+}
+.container-top .dot-2 {
+    background: tomato;
+    display: inline-block;
+    border-radius: 100%;
+    height: 25%;
+    width: 25%;
+    margin: 0 0 0 5px;
+}
+.container-top .dot-3 {
+    background:whitesmoke;
+    display: inline-block;
+    border-radius: 100% ;
+    height: 3%;
+    width: 50%;
+    margin: 15px 0 0 25px;
+}
+
+.container-top .earl {
+    background: yellow;
+    display:flex;
+    border-radius: 100%;
+    height: 50%;
+    width: 30%;
+    margin: -60px 0 0 -15px;
+}
+.container-top .ear2 {
+    background: yellow;
+    display: flex;
+    border-radius: 100%;                                                              
+    height: 50%;
+    width: 30%;
+    margin: -50px 0 0 85px;
+}
+
+.container-top .hat {
+    background: yellowgreen;
+    display: flex;
+    /* border-radius: 50%; */
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;  
+    height: 50%;
+    width: 100%;
+    margin: -100px 0 0 0;
+
+}
+.container-top .design {
+    margin: -20px 0 0 0;
+}
+
+
+/* .container-top ends */
+
+ /* container-middle starts */
+.container-middle .dot {
+    background:yellow;
+    display: inline-block;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    height: 100px;
+    width: 100px;
+    margin: 50px 0 0 50px;
+}
+
+.container-middle .dot-1 {
+    background:yellowgreen;
+    display: inline-block;
+    border-radius: 100%;
+    height: 25px;
+    width: 25px;
+    margin: 30px 0 0  20px;
+}
+.container-middle .dot-2 {
+    background: yellowgreen;
+    display: inline-block;
+    border-radius: 100%;
+    height: 25%;
+    width: 25%;
+    margin: 0 0 0 5px;
+}
+.container-middle .dot-3 {
+    background:tomato;
+    display: inline-block;
+    border-radius: 100% ;
+    height: 3%;
+    width: 50%;
+    margin: 15px 0 0 25px;
+}
+
+.container-middle .earl {
+    background: tomato;
+    display:flex;
+    border-radius: 100%;
+    height: 50%;
+    width: 30%;
+    margin: -60px 0 0 -15px;
+}
+.container-middle .ear2 {
+    background: tomato;
+    display: flex;
+    border-radius: 100%;                                                              
+    height: 50%;
+    width: 30%;
+    margin: -50px 0 0 85px;
+}
+
+.container-middle .hat {
+    background: orange;
+    display: flex;
+    /* border-radius: 50%; */
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;  
+    height: 50%;
+    width: 100%;
+    margin: -100px 0 0 0;
+
+}
+.container-middle .design {
+    margin: -20px 0 0 0;
+}
+
+/* container-middle ends */
+
+/* container-bottom starts */
+
+.container-bottom .dot {
+    background:salmon;
+    display: inline-block;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    height: 100px;
+    width: 100px;
+    margin: 50px 0 0 50px;
+}
+
+.container-bottom .dot-1 {
+    background:yellow;
+    display: inline-block;
+    border-radius: 100%;
+    height: 25px;
+    width: 25px;
+    margin: 30px 0 0  20px;
+}
+.container-bottom .dot-2 {
+    background: yellow;
+    display: inline-block;
+    border-radius: 100%;
+    height: 25%;
+    width: 25%;
+    margin: 0 0 0 5px;
+}
+.container-bottom .dot-3 {
+    background:papayawhip;
+    display: inline-block;
+    border-radius: 100% ;
+    height: 3%;
+    width: 50%;
+    margin: 15px 0 0 25px;
+}
+
+.container-bottom .earl {
+    background: orange;
+    display:flex;
+    border-radius: 100%;
+    height: 50%;
+    width: 30%;
+    margin: -60px 0 0 -15px;
+}
+.container-bottom .ear2 {
+    background: orange;
+    display: flex;
+    border-radius: 100%;                                                              
+    height: 50%;
+    width: 30%;
+    margin: -50px 0 0 85px;
+}
+
+.container-bottom .hat {
+    background:orchid;
+    display: flex;
+    /* border-radius: 50%; */
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;  
+    height: 50%;
+    width: 100%;
+    margin: -100px 0 0 0;
+
+}
+.container-bottom .design {
+    margin: -20px 0 0 0;
+}
+
+/* container-bottom ends */
